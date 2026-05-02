@@ -1,3 +1,5 @@
+All of this is from Vanderbilt University Medical Center's Open Manual of Surgery in Resource-Limited Settings. I just got tired of downloading all their pdfs and wanted one place to view them. 
+
 https://www.vumc.org/global-surgical-atlas/about-manual
 
 About this Manual
